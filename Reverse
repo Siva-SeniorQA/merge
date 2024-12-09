@@ -4,7 +4,7 @@ import java.util.Scanner;
 class Reverse {
     public static void main(String[] args) {
       
-        String s = "Geeks"; 
+        String s = "Sivakumar M R";
         String r = "";
         char ch;
 
